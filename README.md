@@ -21,7 +21,7 @@ Welcome to the Personality-Based Chatbot repository! This project utilizes Googl
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/xensen008/Pychat.git
-   cd personality-based-chatbot
+   cd Pychat
    ```
 
 2. **Install Dependencies**
